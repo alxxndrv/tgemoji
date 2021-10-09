@@ -6,7 +6,7 @@
 
 ## Пример работы
 
-![showcase gif](https://i.ibb.co/DkP8TLt/ezgif-6-1df17cf14d7a.gif)
+![showcase gif](https://i.ibb.co/mCgwxVW/ezgif-4-f20b4aaad2ee.gif)
 
 ## Установка
 
